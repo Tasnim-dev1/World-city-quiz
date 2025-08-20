@@ -1,5 +1,5 @@
 import random
-print("welcome to country-capital-quiz! Ready to test your geography skills? 🌎✨")
+print("welcome to World-city-quiz! Ready to test your geography skills? 🌎✨")
 city_country = {
     "Marrakech": "Morocco",
     "Salvador": "Brazil",
@@ -73,3 +73,4 @@ while question_asked < total_question:
     question_asked = question_asked + 1
 
 print(f"you got {point}/ {total_question} correct, good job! 🌎✨")
+
